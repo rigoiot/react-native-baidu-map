@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/oulp/Rigo/project/code/pwork-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/oulp/.android/build-cache/747799e624738d4d21dc47173e94cbffc50bd1da/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/oulp/Rigo/project/code/pwork-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/oulp/.android/build-cache/747799e624738d4d21dc47173e94cbffc50bd1da/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/oulp/Rigo/project/code/pwork-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/oulp/.android/build-cache/747799e624738d4d21dc47173e94cbffc50bd1da/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/oulp/Rigo/project/code/pwork-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/oulp/.android/build-cache/747799e624738d4d21dc47173e94cbffc50bd1da/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/oulp/Rigo/project/code/pwork-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/oulp/.android/build-cache/747799e624738d4d21dc47173e94cbffc50bd1da/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/oulp/Rigo/project/code/pwork-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/oulp/.android/build-cache/747799e624738d4d21dc47173e94cbffc50bd1da/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/oulp/Rigo/project/code/pwork-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/oulp/.android/build-cache/747799e624738d4d21dc47173e94cbffc50bd1da/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/oulp/Rigo/project/code/pwork-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/oulp/.android/build-cache/747799e624738d4d21dc47173e94cbffc50bd1da/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/oulp/Rigo/project/code/pwork-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/oulp/.android/build-cache/747799e624738d4d21dc47173e94cbffc50bd1da/output/res/color/abc_primary_text_material_light.xml"
+    }
+]
